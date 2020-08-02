@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Master King Site
 
 You can use the [editor on GitHub](https://github.com/Masterking2019/Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
